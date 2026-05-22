@@ -1,0 +1,11 @@
+{
+  "input": "Users are receiving hallucinated medical responses from chatbot",
+  "output": {
+    "category": "Model Quality",
+    "priority": "P1",
+    "next_tool": "Similar Incident Search Tool",
+    "reasoning": "The issue indicates model hallucination affecting response quality.",
+    "why": "Incorrect medical responses may create trust and safety concerns.",
+    "escalation": "Escalated to human team due to safety-sensitive domain"
+  }
+}

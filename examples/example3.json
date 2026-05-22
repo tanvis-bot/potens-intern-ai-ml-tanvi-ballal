@@ -1,0 +1,11 @@
+{
+  "input": "Suspicious login attempts detected from multiple countries",
+  "output": {
+    "category": "Security",
+    "priority": "P0",
+    "next_tool": "Infrastructure Health Tool",
+    "reasoning": "Potential unauthorized access attempts detected.",
+    "why": "Security breaches require immediate attention.",
+    "escalation": "No escalation required"
+  }
+}

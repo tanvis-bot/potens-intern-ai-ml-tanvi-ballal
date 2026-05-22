@@ -1,0 +1,11 @@
+{
+  "input": "Deployment pipeline failing during Docker build stage",
+  "output": {
+    "category": "Deployment",
+    "priority": "P1",
+    "next_tool": "Similar Incident Search Tool",
+    "reasoning": "CI/CD deployment process interrupted.",
+    "why": "Deployment failures delay releases and operational workflows.",
+    "escalation": "No escalation required"
+  }
+}

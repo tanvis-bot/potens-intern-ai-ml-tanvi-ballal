@@ -1,0 +1,11 @@
+{
+  "input": "API gateway returning 503 errors intermittently",
+  "output": {
+    "category": "Infrastructure",
+    "priority": "P0",
+    "next_tool": "Infrastructure Health Tool",
+    "reasoning": "Gateway instability may affect production traffic.",
+    "why": "Service unavailability impacts users directly.",
+    "escalation": "No escalation required"
+  }
+}

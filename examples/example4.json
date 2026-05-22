@@ -1,0 +1,11 @@
+{
+  "input": "Payment deducted twice during subscription renewal",
+  "output": {
+    "category": "Billing",
+    "priority": "P2",
+    "next_tool": "Acknowledgment Generator Tool",
+    "reasoning": "Billing inconsistency affecting customer payment flow.",
+    "why": "Financial issues impact customer trust but are not infrastructure critical.",
+    "escalation": "No escalation required"
+  }
+}

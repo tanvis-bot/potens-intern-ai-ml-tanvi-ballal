@@ -1,0 +1,11 @@
+{
+  "input": "Vector database latency increased significantly after indexing",
+  "output": {
+    "category": "Infrastructure",
+    "priority": "P1",
+    "next_tool": "Infrastructure Health Tool",
+    "reasoning": "Latency spike impacts retrieval performance.",
+    "why": "Slow vector search can degrade AI application responsiveness.",
+    "escalation": "No escalation required"
+  }
+}

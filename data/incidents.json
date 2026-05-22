@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "issue": "GPU servers failing after deployment",
+    "category": "Infrastructure",
+    "priority": "P0"
+  },
+  {
+    "id": 2,
+    "issue": "Users receiving hallucinated financial advice",
+    "category": "Model Quality",
+    "priority": "P1"
+  },
+  {
+    "id": 3,
+    "issue": "Suspicious login attempts detected",
+    "category": "Security",
+    "priority": "P0"
+  },
+  {
+    "id": 4,
+    "issue": "Payment deducted twice",
+    "category": "Billing",
+    "priority": "P2"
+  },
+  {
+    "id": 5,
+    "issue": "Vector database latency spike",
+    "category": "Infrastructure",
+    "priority": "P1"
+  }
+]

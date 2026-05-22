@@ -1,0 +1,11 @@
+{
+  "input": "AI agent produced contradictory legal guidance",
+  "output": {
+    "category": "Model Quality",
+    "priority": "P1",
+    "next_tool": "Similar Incident Search Tool",
+    "reasoning": "Model inconsistency detected in legal reasoning.",
+    "why": "Incorrect legal guidance may create compliance risks.",
+    "escalation": "Escalated to human team due to high-risk domain"
+  }
+}

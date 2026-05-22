@@ -1,0 +1,11 @@
+{
+  "input": "Customer cannot access dashboard after password reset",
+  "output": {
+    "category": "General Support",
+    "priority": "P2",
+    "next_tool": "Acknowledgment Generator Tool",
+    "reasoning": "Single-user access issue after credential update.",
+    "why": "Limited operational impact.",
+    "escalation": "No escalation required"
+  }
+}

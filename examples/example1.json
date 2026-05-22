@@ -1,0 +1,11 @@
+{
+  "input": "GPU inference servers are failing after deployment",
+  "output": {
+    "category": "Infrastructure",
+    "priority": "P0",
+    "next_tool": "Infrastructure Health Tool",
+    "reasoning": "Issue affects inference infrastructure after deployment and may impact production traffic.",
+    "why": "GPU server failures can cause downtime for inference APIs.",
+    "escalation": "No escalation required"
+  }
+}

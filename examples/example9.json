@@ -1,0 +1,11 @@
+{
+  "input": "Users reporting extremely slow chatbot responses",
+  "output": {
+    "category": "Infrastructure",
+    "priority": "P1",
+    "next_tool": "Infrastructure Health Tool",
+    "reasoning": "Latency issue affecting inference response time.",
+    "why": "Performance degradation impacts user experience.",
+    "escalation": "No escalation required"
+  }
+}
